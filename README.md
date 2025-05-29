@@ -227,9 +227,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
 
-Project Link: [https://github.com/yourusername/portfolio](https://github.com/yourusername/portfolio)
+Project Link: [https://github.com/Shurface123/portfolio](https://github.com/Shurface123/portfolio)
 
 ## 🙏 Acknowledgments
 
